@@ -3,3 +3,4 @@ tracking codes
 nodes
 ok
 start
+scripts running
