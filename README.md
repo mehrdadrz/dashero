@@ -14,3 +14,4 @@ staking
 RSTD
 scripts
 kraker
+servers checking...
