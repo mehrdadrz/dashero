@@ -1,18 +1,1 @@
-new chapter begin...
-tracking codes
-nodes
-ok
-start
-scripts running
-...
-session 1
-getting started...
-xos
-Making Plans...
-Running...
-staking
-RSTD
-scripts
-kraker
-servers checking...
-114
+start again
