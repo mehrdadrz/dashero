@@ -4,3 +4,4 @@ test1
 codes
 RUNNING
 servers
+ready
