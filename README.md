@@ -26,3 +26,4 @@ sylenth
 omnispher
 keyscape
 jetlag
+setup 1
