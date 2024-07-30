@@ -7,3 +7,4 @@ tree
 cube
 running...
 scripts
+khodaya khodet aberoom ro hefz kon
