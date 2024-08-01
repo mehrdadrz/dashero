@@ -9,3 +9,4 @@ running...
 scripts
 khodaya khodet aberoom ro hefz kon
 khodaya be omide to
+tamame omide man toyi
