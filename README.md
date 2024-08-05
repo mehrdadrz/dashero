@@ -13,3 +13,4 @@ tamame omide man toyi
 khodaya shokret
 tanha omidami
 tavakol be khodet
+be omide khoda
