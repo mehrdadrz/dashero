@@ -14,3 +14,4 @@ khodaya shokret
 tanha omidami
 tavakol be khodet
 be omide khoda
+khodaya mamnoonam k hasti
