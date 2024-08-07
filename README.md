@@ -15,3 +15,4 @@ tanha omidami
 tavakol be khodet
 be omide khoda
 khodaya mamnoonam k hasti
+khodaya hamejoore shokret
